@@ -1,0 +1,25 @@
+1604847304302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\USER1~1\\AppData\\Local\\Temp\\rust_mozprofileNJDa91"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604847306631	Marionette	INFO	Listening on port 61470
+1604847307120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604847332144	Marionette	INFO	Stopped listening on port 61470
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1604847327703	Marionette	INFO	Listening on port 61553
+1604847328028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604847340074	Marionette	INFO	Stopped listening on port 61553
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
